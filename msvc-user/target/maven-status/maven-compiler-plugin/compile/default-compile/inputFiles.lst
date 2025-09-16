@@ -1,8 +1,0 @@
-/home/javier/pruebasAplicaciones/msvc-user/src/main/java/com/springcloud/msvc/users/MsvcUsersApplication.java
-/home/javier/pruebasAplicaciones/msvc-user/src/main/java/com/springcloud/msvc/users/controllers/UserController.java
-/home/javier/pruebasAplicaciones/msvc-user/src/main/java/com/springcloud/msvc/users/entities/Role.java
-/home/javier/pruebasAplicaciones/msvc-user/src/main/java/com/springcloud/msvc/users/entities/User.java
-/home/javier/pruebasAplicaciones/msvc-user/src/main/java/com/springcloud/msvc/users/repositories/RoleRepository.java
-/home/javier/pruebasAplicaciones/msvc-user/src/main/java/com/springcloud/msvc/users/repositories/UserRepository.java
-/home/javier/pruebasAplicaciones/msvc-user/src/main/java/com/springcloud/msvc/users/services/IUserService.java
-/home/javier/pruebasAplicaciones/msvc-user/src/main/java/com/springcloud/msvc/users/services/UserService.java

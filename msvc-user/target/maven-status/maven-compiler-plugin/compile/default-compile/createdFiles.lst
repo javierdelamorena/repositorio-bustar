@@ -1,8 +1,0 @@
-com/springcloud/msvc/users/MsvcUsersApplication.class
-com/springcloud/msvc/users/entities/Role.class
-com/springcloud/msvc/users/entities/User.class
-com/springcloud/msvc/users/services/UserService.class
-com/springcloud/msvc/users/services/IUserService.class
-com/springcloud/msvc/users/repositories/UserRepository.class
-com/springcloud/msvc/users/repositories/RoleRepository.class
-com/springcloud/msvc/users/controllers/UserController.class

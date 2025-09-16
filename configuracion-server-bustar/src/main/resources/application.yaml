@@ -1,0 +1,12 @@
+server:
+  port: 8081
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          default-label: auth-jwt
+          uri: https://github.com/javierdelamorena/repositorio-bustar
+          search-paths: data-microsBustar
+  application:
+    name: configuracion-server-bustar
